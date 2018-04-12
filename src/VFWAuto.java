@@ -3,6 +3,9 @@ import java.util.*;
 
 import javax.media.*;
 
+// referenced from a solution by "bincob" on Stack Overflow
+// https://stackoverflow.com/questions/8768142/java-capturedevicemanagergetdevicelist-is-empty
+
 public class VFWAuto {
 
 public VFWAuto() {
